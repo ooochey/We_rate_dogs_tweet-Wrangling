@@ -1,0 +1,13 @@
+Reference Websites
+
+https://stackoverflow.com/
+https://www.statology.org/
+https://www.geeksforgeeks.org/python-pandas-melt/
+https://sparkbyexamples.com/pandas/pandas-to-csv-no-index/
+https://www.geeksforgeeks.org/how-to-adjust-title-position-in-matplotlib/
+https://seaborn.pydata.org/tutorial/color_palettes.html
+https://www.w3schools.com/python/pandas/ref_df_sort_values.asp
+https://sparkbyexamples.com/pandas/pandas-merge-multiple-dataframes-2/
+https://www.skytowner.com/explore/getting_rows_where_values_do_not_contain_substring_in_pandas_dataframe
+https://www.shecancode.io/blog/filter-a-pandas-dataframe-by-a-partial-string-or-pattern-in-8-ways
+https://datatofish.com/substring-pandas-dataframe/
